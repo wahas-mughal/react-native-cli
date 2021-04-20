@@ -1,0 +1,8 @@
+{
+  "name": "AwesomeProject",
+  "displayName": "AwesomeProject",
+  "android": {
+    "useNextNotificationsApi": true
+  },
+  "owner": "team_wahas"
+}
